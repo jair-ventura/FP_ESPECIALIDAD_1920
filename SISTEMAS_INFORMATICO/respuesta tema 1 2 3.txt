@@ -1,0 +1,36 @@
+respuesta tema 1 2 3
+1- programa alamcenado 
+2- programa 
+3- señales
+4- registros
+5- niguna de las respuestas anteriores es correcta
+6- representa cualquier tipo de valor 
+7- cifra 
+8- no posicionales
+9- tiene 6 simbolos
+10- 1010 \ 1110
+11- dicho ordenador, como ente autonomo, es un ejemplo de sistema informatico
+12- se puede dividir afuncionalmente 
+13- progrmas para que hardware tenga capacidad de trabajar \ el software del sistema operativo
+14- aplicacion
+15- general
+16- el acumulador suma el resultado obetido en la operacion
+17- estado
+18- descodificada
+19- fase de salto del resultado
+20- CISC y RISC
+21- huesped
+22- en la opcion sistema
+23- red nat
+24- adaptador puente
+25- OVA
+26- el sistema operativo 
+27- sistema de datos
+28- deja aplicaciones accedan aunque sea de forma ...
+29- sincronizacion\sincronizen
+30- servicios 
+31- instruccioones
+32- 
+33-funciones
+34- capa\funcion
+35- no existe el tipo de sistema operativo
